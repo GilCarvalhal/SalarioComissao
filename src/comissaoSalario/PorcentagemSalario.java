@@ -1,9 +1,9 @@
-package SalarioComissao;
+package comissaoSalario;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class porcentagemSalario {
+public class PorcentagemSalario {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
